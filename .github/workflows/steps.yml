@@ -1,0 +1,14 @@
+name: Lots steps
+on: [push, workflow_dispatch]
+
+jobs:
+  build-1:
+    runs-on: ubuntu-latest
+    steps:
+    - name: This is build 1
+      run: echo Hello, world!
+  build-2:
+    runs-on: ubuntu-latest
+    steps:
+    - name: This is build 2
+      run: echo Hello, world!
