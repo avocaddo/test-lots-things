@@ -1,0 +1,16 @@
+name: Lots of artifacts
+
+on: [repository_dispatch, push, workflow_dispatch]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - run: echo `date` > world.txt
+    - name: This is artifact 0
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-0
+        path: world.txt
