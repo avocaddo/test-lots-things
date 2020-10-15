@@ -14,3 +14,696 @@ jobs:
       with:
         name: my-artifact-0
         path: world.txt
+
+
+    - name: This is artifact 1
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-1
+        path: world.txt
+
+
+    - name: This is artifact 2
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-2
+        path: world.txt
+
+
+    - name: This is artifact 3
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-3
+        path: world.txt
+
+
+    - name: This is artifact 4
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-4
+        path: world.txt
+
+
+    - name: This is artifact 5
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-5
+        path: world.txt
+
+
+    - name: This is artifact 6
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-6
+        path: world.txt
+
+
+    - name: This is artifact 7
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-7
+        path: world.txt
+
+
+    - name: This is artifact 8
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-8
+        path: world.txt
+
+
+    - name: This is artifact 9
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-9
+        path: world.txt
+
+
+    - name: This is artifact 10
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-10
+        path: world.txt
+
+
+    - name: This is artifact 11
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-11
+        path: world.txt
+
+
+    - name: This is artifact 12
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-12
+        path: world.txt
+
+
+    - name: This is artifact 13
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-13
+        path: world.txt
+
+
+    - name: This is artifact 14
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-14
+        path: world.txt
+
+
+    - name: This is artifact 15
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-15
+        path: world.txt
+
+
+    - name: This is artifact 16
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-16
+        path: world.txt
+
+
+    - name: This is artifact 17
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-17
+        path: world.txt
+
+
+    - name: This is artifact 18
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-18
+        path: world.txt
+
+
+    - name: This is artifact 19
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-19
+        path: world.txt
+
+
+    - name: This is artifact 20
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-20
+        path: world.txt
+
+
+    - name: This is artifact 21
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-21
+        path: world.txt
+
+
+    - name: This is artifact 22
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-22
+        path: world.txt
+
+
+    - name: This is artifact 23
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-23
+        path: world.txt
+
+
+    - name: This is artifact 24
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-24
+        path: world.txt
+
+
+    - name: This is artifact 25
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-25
+        path: world.txt
+
+
+    - name: This is artifact 26
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-26
+        path: world.txt
+
+
+    - name: This is artifact 27
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-27
+        path: world.txt
+
+
+    - name: This is artifact 28
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-28
+        path: world.txt
+
+
+    - name: This is artifact 29
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-29
+        path: world.txt
+
+
+    - name: This is artifact 30
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-30
+        path: world.txt
+
+
+    - name: This is artifact 31
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-31
+        path: world.txt
+
+
+    - name: This is artifact 32
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-32
+        path: world.txt
+
+
+    - name: This is artifact 33
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-33
+        path: world.txt
+
+
+    - name: This is artifact 34
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-34
+        path: world.txt
+
+
+    - name: This is artifact 35
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-35
+        path: world.txt
+
+
+    - name: This is artifact 36
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-36
+        path: world.txt
+
+
+    - name: This is artifact 37
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-37
+        path: world.txt
+
+
+    - name: This is artifact 38
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-38
+        path: world.txt
+
+
+    - name: This is artifact 39
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-39
+        path: world.txt
+
+
+    - name: This is artifact 40
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-40
+        path: world.txt
+
+
+    - name: This is artifact 41
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-41
+        path: world.txt
+
+
+    - name: This is artifact 42
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-42
+        path: world.txt
+
+
+    - name: This is artifact 43
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-43
+        path: world.txt
+
+
+    - name: This is artifact 44
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-44
+        path: world.txt
+
+
+    - name: This is artifact 45
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-45
+        path: world.txt
+
+
+    - name: This is artifact 46
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-46
+        path: world.txt
+
+
+    - name: This is artifact 47
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-47
+        path: world.txt
+
+
+    - name: This is artifact 48
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-48
+        path: world.txt
+
+
+    - name: This is artifact 49
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-49
+        path: world.txt
+
+
+    - name: This is artifact 50
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-50
+        path: world.txt
+
+
+    - name: This is artifact 51
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-51
+        path: world.txt
+
+
+    - name: This is artifact 52
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-52
+        path: world.txt
+
+
+    - name: This is artifact 53
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-53
+        path: world.txt
+
+
+    - name: This is artifact 54
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-54
+        path: world.txt
+
+
+    - name: This is artifact 55
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-55
+        path: world.txt
+
+
+    - name: This is artifact 56
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-56
+        path: world.txt
+
+
+    - name: This is artifact 57
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-57
+        path: world.txt
+
+
+    - name: This is artifact 58
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-58
+        path: world.txt
+
+
+    - name: This is artifact 59
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-59
+        path: world.txt
+
+
+    - name: This is artifact 60
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-60
+        path: world.txt
+
+
+    - name: This is artifact 61
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-61
+        path: world.txt
+
+
+    - name: This is artifact 62
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-62
+        path: world.txt
+
+
+    - name: This is artifact 63
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-63
+        path: world.txt
+
+
+    - name: This is artifact 64
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-64
+        path: world.txt
+
+
+    - name: This is artifact 65
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-65
+        path: world.txt
+
+
+    - name: This is artifact 66
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-66
+        path: world.txt
+
+
+    - name: This is artifact 67
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-67
+        path: world.txt
+
+
+    - name: This is artifact 68
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-68
+        path: world.txt
+
+
+    - name: This is artifact 69
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-69
+        path: world.txt
+
+
+    - name: This is artifact 70
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-70
+        path: world.txt
+
+
+    - name: This is artifact 71
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-71
+        path: world.txt
+
+
+    - name: This is artifact 72
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-72
+        path: world.txt
+
+
+    - name: This is artifact 73
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-73
+        path: world.txt
+
+
+    - name: This is artifact 74
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-74
+        path: world.txt
+
+
+    - name: This is artifact 75
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-75
+        path: world.txt
+
+
+    - name: This is artifact 76
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-76
+        path: world.txt
+
+
+    - name: This is artifact 77
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-77
+        path: world.txt
+
+
+    - name: This is artifact 78
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-78
+        path: world.txt
+
+
+    - name: This is artifact 79
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-79
+        path: world.txt
+
+
+    - name: This is artifact 80
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-80
+        path: world.txt
+
+
+    - name: This is artifact 81
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-81
+        path: world.txt
+
+
+    - name: This is artifact 82
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-82
+        path: world.txt
+
+
+    - name: This is artifact 83
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-83
+        path: world.txt
+
+
+    - name: This is artifact 84
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-84
+        path: world.txt
+
+
+    - name: This is artifact 85
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-85
+        path: world.txt
+
+
+    - name: This is artifact 86
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-86
+        path: world.txt
+
+
+    - name: This is artifact 87
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-87
+        path: world.txt
+
+
+    - name: This is artifact 88
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-88
+        path: world.txt
+
+
+    - name: This is artifact 89
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-89
+        path: world.txt
+
+
+    - name: This is artifact 90
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-90
+        path: world.txt
+
+
+    - name: This is artifact 91
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-91
+        path: world.txt
+
+
+    - name: This is artifact 92
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-92
+        path: world.txt
+
+
+    - name: This is artifact 93
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-93
+        path: world.txt
+
+
+    - name: This is artifact 94
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-94
+        path: world.txt
+
+
+    - name: This is artifact 95
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-95
+        path: world.txt
+
+
+    - name: This is artifact 96
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-96
+        path: world.txt
+
+
+    - name: This is artifact 97
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-97
+        path: world.txt
+
+
+    - name: This is artifact 98
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-98
+        path: world.txt
+
+
+    - name: This is artifact 99
+      uses: actions/upload-artifact@master
+      with:
+        name: my-artifact-99
+        path: world.txt
