@@ -1,6 +1,6 @@
 name: Lots of artifacts
 
-on: [repository_dispatch, push, workflow_dispatch]
+on: [workflow_dispatch]
 
 jobs:
   build:
