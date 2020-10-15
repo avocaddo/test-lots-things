@@ -1,5 +1,5 @@
 name: Lots of steps
-on: [push, workflow_dispatch]
+on: [workflow_dispatch]
 
 jobs:
   build:
